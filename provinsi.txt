@@ -1,0 +1,10 @@
+1,DKI Jakarta
+2,Jawa Barat
+3,Banten
+4,Bali
+5,DI Yogyakarta
+6,Jawa Tengah
+7,Sulawesi Utara
+8,Kalimantan Barat
+9,Jawa Timur
+10,Kepulauan Riau

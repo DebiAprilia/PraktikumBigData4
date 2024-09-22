@@ -1,0 +1,10 @@
+Aulia, 20, 3.1
+Benny, 19, 3.5
+Cantika, 19, 3.7
+Davin, 21, 3.9
+Elsa, 20, 3.5
+Figo, 20, 3.5
+Gery, 20, 3.7
+Hilman, 21, 3.5
+Ijat, 19, 3.1
+Kiara, 20, 3.9
